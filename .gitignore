@@ -2,3 +2,4 @@ data
 web/node_modules
 web/npm-debug.log
 temp
+dist
