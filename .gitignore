@@ -1,5 +1,5 @@
 data
-web/node_modules
-web/npm-debug.log
+node_modules
+npm-debug.log
 temp
 dist
