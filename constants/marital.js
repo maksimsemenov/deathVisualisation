@@ -1,0 +1,5 @@
+export const SINGLE = 'Single'
+export const MARRIED = 'Married'
+export const WIDOWED = 'Widowed'
+export const DIVORCED = 'Divorced'
+export const UNKNOWN = 'Unknown'
